@@ -1,0 +1,16 @@
+{
+  "pages": [
+    "pages/start/start",
+    "pages/wifi_station/tempe/tempe",
+    "pages/wifi_station/humidity/humidity",
+    "pages/wifi_station/light/light"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#F4A460",
+    "navigationBarTitleText": "阿拉丁神拖",
+    "navigationBarTextStyle": "black",
+    "enablePullDownRefresh": true
+  },
+  "debug": true
+}
